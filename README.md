@@ -8,7 +8,7 @@ Table of Contents
 
 - [Startups and Business](#startups-and-business)
 - [Philosophy and Psychology](#philosophy-and-psychology)
-* [History](#history)
+* [History](#historyofindia)
 * [Evolution, Science and Medicine](#science-and-medicine)
 * [Logic and Problem Solving](#logic-and-problem-solving)
 * [Politics](#politics)
